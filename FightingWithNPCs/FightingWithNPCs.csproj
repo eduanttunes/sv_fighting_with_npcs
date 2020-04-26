@@ -38,6 +38,7 @@
     <None Include="manifest.json" />
     <None Include="i18n\default.json" />
     <None Include="i18n\pt.json" />
+    <None Include="i18n\ko.json" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="i18n\" />

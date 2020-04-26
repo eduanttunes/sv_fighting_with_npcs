@@ -195,7 +195,7 @@ namespace FightingWithNPCs
 
                         // HUD message
 
-                        Game1.showGlobalMessage(i18n.Get("hospital_hud_message", new { character_name = npc.Name }));
+                        Game1.showGlobalMessage(i18n.Get("hospital_hud_message", new { character_name = npc.getName() }));
 
 
                         // Emote
